@@ -1,0 +1,17 @@
+body {
+    background-color: #e7eaf6;
+    font-family: 'Poppins', sans-serif;
+}
+
+hr {
+    border-style: none;
+    border-top: 7px dotted lightgrey;
+    height: 1px;
+    width: 4%;
+
+}
+
+h1,h3{
+color: #66bfbf
+
+}
